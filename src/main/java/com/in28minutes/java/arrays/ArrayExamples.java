@@ -18,6 +18,8 @@ public class ArrayExamples {
 
 		// Creating an array
 		marks = new int[5]; // 5 is size of array
+		
+		//dee edit
 
 		// Size of an array is mandatory to create an array
 		// marks = new int[];//COMPILER ERROR
